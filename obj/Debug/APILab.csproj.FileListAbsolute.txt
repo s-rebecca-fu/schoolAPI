@@ -80,3 +80,6 @@ C:\Users\rebec\OneDrive\Documents\Visual Studio 2015\Projects\APILab\APILab\obj\
 C:\Users\rebec\OneDrive\Documents\Visual Studio 2015\Projects\APILab\APILab\bin\System.Web.Cors.dll
 C:\Users\rebec\OneDrive\Documents\Visual Studio 2015\Projects\APILab\APILab\bin\System.Web.Http.Cors.dll
 C:\Users\rebec\OneDrive\Documents\Visual Studio 2015\Projects\APILab\APILab\bin\System.Web.Http.Cors.xml
+C:\Users\rebec\OneDrive\documents\visual studio 2015\Projects\APILab\APILab\bin\APILab.XML
+C:\Users\rebec\OneDrive\documents\visual studio 2015\Projects\APILab\APILab\bin\Swashbuckle.Core.dll
+C:\Users\rebec\OneDrive\documents\visual studio 2015\Projects\APILab\APILab\bin\WebActivatorEx.dll
